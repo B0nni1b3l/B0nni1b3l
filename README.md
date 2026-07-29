@@ -50,7 +50,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    alt="Ct" 
+    alt="C" 
     title="C"
     width="40px" 
     style="padding-right: 10px;" 
@@ -63,9 +63,16 @@
     style="padding: 10px;"  
     src="https://cdn-icons-png.flaticon.com/512/226/226777.png"  
   />
+      <img
+    alt="Python"  
+    title="Python"
+    width="40px"  
+    style="padding: 10px;"  
+    src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"  
+  />
     <img
-    alt="MySQL"  
-    title="MySQL"
+    alt="SQL"  
+    title="SQL"
     width="40px"  
     style="padding: 10px;"  
     src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png"  
