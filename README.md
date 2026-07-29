@@ -56,7 +56,14 @@
     style="padding-right: 10px;" 
     src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" 
 />
-  <img
+    <img
+    alt="Java"  
+    title="Java"
+    width="40px"  
+    style="padding: 10px;"  
+    src="https://cdn-icons-png.flaticon.com/512/226/226777.png"  
+  />
+    <img
     alt="MySQL"  
     title="MySQL"
     width="40px"  
@@ -64,26 +71,3 @@
     src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png"  
   />
 </div>
-<br>
-</br> 
-<p>
-<div align="center">
-  <img height=170 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=B0nni1b3l&show_icons=true&count_private=true&rank_icon=github&theme=cobalt&font=Iosevka"/>
-  <img height=200 width=365 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0nni1b3l&layout=compact&font=Iosevka&langs_count=16&theme=cobalt"/>
-  <br>
-  <br>
-  <img height=490 width=777 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B0nni1b3l&theme=cobalt"/>
-</div>
-</p>
-
-<h2 align="center"><span style="color: #FF69B4;">Meus Melhores Repositórios</span></h2>
-
-<div align="center">
-  <a href="https://github.com/B0nni1b3l/Money-to-Money">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0nni1b3l&repo=Money-to-Money&theme=cobalt&border_color=5eb4ae&title_color=5eb4ae&icon_color=5eb4ae" alt="Card Repositório 1" style="width: 45%; margin: 10px;"/>
-  </a>
-  <a href="https://github.com/B0nni1b3l/Site-de-Planos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0nni1b3l&repo=Site-de-Planos&theme=cobalt&border_color=5eb4ae&title_color=5eb4ae&icon_color=5eb4ae" alt="Card Repositório 2" style="width: 45%; margin: 10px;"/>
-  </a>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5eb4ae&height=100&section=footer"/>
